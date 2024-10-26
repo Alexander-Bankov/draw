@@ -20,21 +20,21 @@
           <mxGeometry x="489.5" y="923" width="317" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-21" value="БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="997.5" y="1048" width="60" height="80" as="geometry" />
+          <mxGeometry x="1003" y="1064" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-22" value="п/с аунтефикации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="383.5" y="1058" width="227" height="60" as="geometry" />
+          <mxGeometry x="349" y="1076" width="227" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-23" value="п/с взаимодействия с БД" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720.5" y="1058" width="181" height="60" as="geometry" />
+          <mxGeometry x="717" y="1079" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDYRo6DKzsIXx-MK1S8J-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-23" edge="1">
+        <mxCell id="FDYRo6DKzsIXx-MK1S8J-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-23" edge="1" source="FDYRo6DKzsIXx-MK1S8J-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="609.5" y="1089" as="sourcePoint" />
             <mxPoint x="659.5" y="1039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDYRo6DKzsIXx-MK1S8J-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-21" edge="1">
+        <mxCell id="FDYRo6DKzsIXx-MK1S8J-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-21" edge="1" source="FDYRo6DKzsIXx-MK1S8J-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="902.5" y="1087" as="sourcePoint" />
             <mxPoint x="952.5" y="1037" as="targetPoint" />
