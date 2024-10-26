@@ -70,13 +70,13 @@
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="844" y="253" width="181" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="FDYRo6DKzsIXx-MK1S8J-48" value="Подсистема Администратор" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FDYRo6DKzsIXx-MK1S8J-48" value="Подсистема &quot;Администратор&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="264" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="144" y="264" width="179" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="FDYRo6DKzsIXx-MK1S8J-50" value="Подсистема Волонтер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FDYRo6DKzsIXx-MK1S8J-50" value="Подсистема &quot;Волонтер&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="196" y="283" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-51" value="п/с создания заявки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
