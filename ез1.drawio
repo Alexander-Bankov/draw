@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="MMwYMrBjLCGeWuF0NXBC">
-    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,36 +11,36 @@
           <mxGeometry x="132" y="228" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113" y="916" width="997.5" height="240" as="geometry" />
+          <mxGeometry x="106" y="854" width="997.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-17" value="Серверная часть" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="141.5" y="912" width="81" height="30" as="geometry" />
+          <mxGeometry x="134.5" y="850" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-20" value="Подсистема взаимодействия с клиентской частью" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="489.5" y="923" width="317" height="60" as="geometry" />
+          <mxGeometry x="482.5" y="861" width="317" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-21" value="БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="1064" width="60" height="80" as="geometry" />
+          <mxGeometry x="996" y="1002" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-22" value="п/с аунтефикации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="348" y="1074" width="227" height="60" as="geometry" />
+          <mxGeometry x="341" y="1012" width="227" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-23" value="п/с взаимодействия с БД" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="719" y="1074" width="181" height="60" as="geometry" />
+          <mxGeometry x="712" y="1012" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-23" edge="1" source="FDYRo6DKzsIXx-MK1S8J-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609.5" y="1089" as="sourcePoint" />
-            <mxPoint x="659.5" y="1039" as="targetPoint" />
+            <mxPoint x="602.5" y="1027" as="sourcePoint" />
+            <mxPoint x="652.5" y="977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FDYRo6DKzsIXx-MK1S8J-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FDYRo6DKzsIXx-MK1S8J-21" edge="1" source="FDYRo6DKzsIXx-MK1S8J-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="902.5" y="1087" as="sourcePoint" />
-            <mxPoint x="952.5" y="1037" as="targetPoint" />
+            <mxPoint x="895.5" y="1025" as="sourcePoint" />
+            <mxPoint x="945.5" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDYRo6DKzsIXx-MK1S8J-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.516;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;width=32;" parent="1" edge="1">
+        <mxCell id="FDYRo6DKzsIXx-MK1S8J-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=32;" parent="1" edge="1" source="FDYRo6DKzsIXx-MK1S8J-38">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="626.99" y="904.4200000000001" as="sourcePoint" />
             <mxPoint x="625.0048677248676" y="772" as="targetPoint" />
@@ -113,24 +113,24 @@
           <mxGeometry x="173.5" y="411" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S-MvLSUMD0grXTGXBFP--3" value="п/с обработки заявок волонетров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1004" width="323" height="46" as="geometry" />
+          <mxGeometry x="478" y="942" width="323" height="46" as="geometry" />
         </mxCell>
         <mxCell id="S-MvLSUMD0grXTGXBFP--7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.806;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FDYRo6DKzsIXx-MK1S8J-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="531" y="1071" as="sourcePoint" />
-            <mxPoint x="531" y="1050" as="targetPoint" />
+            <mxPoint x="524" y="1009" as="sourcePoint" />
+            <mxPoint x="524" y="988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-MvLSUMD0grXTGXBFP--8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="S-MvLSUMD0grXTGXBFP--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="623" y="1016" as="sourcePoint" />
-            <mxPoint x="645" y="982" as="targetPoint" />
+            <mxPoint x="616" y="954" as="sourcePoint" />
+            <mxPoint x="638" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-MvLSUMD0grXTGXBFP--9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="781" y="1073" as="sourcePoint" />
-            <mxPoint x="781" y="1050" as="targetPoint" />
+            <mxPoint x="774" y="1011" as="sourcePoint" />
+            <mxPoint x="774" y="988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
