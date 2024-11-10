@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1728" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="Мероприятия" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="488" y="-123" width="184" height="288" as="geometry">
+          <mxGeometry x="1000" y="-176" width="184" height="288" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -37,7 +37,7 @@
           <mxGeometry y="254" width="184" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="Заявка" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="318" y="207" width="160" height="200" as="geometry">
+          <mxGeometry x="295" y="434" width="160" height="200" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -121,7 +121,7 @@
           <mxGeometry y="156" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-18" value="Справочник События" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="608" y="227" width="160" height="120" as="geometry">
+          <mxGeometry x="481" y="148.5" width="160" height="120" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -135,7 +135,7 @@
           <mxGeometry y="94" width="160" height="4" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-24" value="Справочник Языков" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="578" y="407" width="160" height="120" as="geometry">
+          <mxGeometry x="466" y="-59" width="160" height="120" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -207,15 +207,30 @@
           <mxGeometry y="52" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-58" value="Работа со справочником &#xa;событий" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=33;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="87" y="182" width="160" height="200" as="geometry">
+          <mxGeometry x="82" y="137" width="240" height="143" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnYiMOl3u6PQIIA1muX0-59" value="Id Заявки" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-58">
-          <mxGeometry y="33" width="160" height="26" as="geometry" />
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-59" value="Добавить событие в &#xa;справочник(названисобытия):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-58">
+          <mxGeometry y="33" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-67" value="Удалить событие из &#xa;справочника(название события):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-58">
+          <mxGeometry y="67" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-63" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-58">
-          <mxGeometry y="59" width="160" height="24" as="geometry" />
+          <mxGeometry y="101" width="240" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-68" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="306" y="6" as="sourcePoint" />
+            <mxPoint x="466" y="6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-69" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="322" y="208" as="sourcePoint" />
+            <mxPoint x="482" y="208" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
