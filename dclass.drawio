@@ -37,7 +37,7 @@
           <mxGeometry y="254" width="184" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="Заявка" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-203" y="637" width="160" height="200" as="geometry">
+          <mxGeometry x="1031" y="145" width="160" height="200" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -162,7 +162,7 @@
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-71" value="Изменить информацию &#xa;о клиенте в системе(e-mail):Волонтер" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-28">
           <mxGeometry y="137" width="287" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZnYiMOl3u6PQIIA1muX0-72" value="Получить список &#xa;волонтеров(ничего):List&lt;Волонтеры&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-28">
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-72" value="Получить список &#xa;волонтеров(ничего):List&lt;Волонтер&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-28">
           <mxGeometry y="172" width="287" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-73" value="Получить волонтера(e-mail):Волонтер" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-28">
@@ -172,18 +172,27 @@
           <mxGeometry y="236" width="287" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-34" value="Работа с событием" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-212" y="166" width="160" height="200" as="geometry">
+          <mxGeometry x="-212" y="166" width="252" height="389" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnYiMOl3u6PQIIA1muX0-35" value="Id Заявки" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-35" value="Добавить событие в &#xa;справочник(названисобытия):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
+          <mxGeometry y="26" width="252" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-82" value="Добавить событие в &#xa;справочник(названисобытия):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
+          <mxGeometry y="72" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-83" value="Добавить событие в &#xa;справочник(названисобытия):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
+          <mxGeometry y="121" width="252" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-84" value="Добавить событие в &#xa;справочник(названисобытия):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
+          <mxGeometry y="182" width="252" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-39" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-34">
-          <mxGeometry y="52" width="160" height="24" as="geometry" />
+          <mxGeometry y="240" width="252" height="149" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-40" value="Работа с мероприятием" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-215" y="389" width="160" height="200" as="geometry">
+          <mxGeometry x="-157" y="646" width="160" height="200" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -208,15 +217,24 @@
           <mxGeometry y="116" width="219" height="38" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-52" value="Работа с заявкой" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="304" width="160" height="200" as="geometry">
+          <mxGeometry x="760" y="124" width="224" height="201" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnYiMOl3u6PQIIA1muX0-53" value="Id Заявки" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-53" value="Добавить заявку в &#xa;систему(Id заявки):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
+          <mxGeometry y="26" width="224" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-81" value="Удалить заявку из &#xa;системы(Id заявки):пустой&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
+          <mxGeometry y="63" width="224" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-80" value="Получить список &#xa;заявок(ничего):List&lt;Завяка&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
+          <mxGeometry y="100" width="224" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnYiMOl3u6PQIIA1muX0-79" value="Получить заявку(Id заявки):Заявка" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
+          <mxGeometry y="135" width="224" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-57" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ZnYiMOl3u6PQIIA1muX0-52">
-          <mxGeometry y="52" width="160" height="24" as="geometry" />
+          <mxGeometry y="175" width="224" height="2" as="geometry" />
         </mxCell>
         <mxCell id="ZnYiMOl3u6PQIIA1muX0-58" value="Работа со справочником &#xa;событий" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=33;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="82" y="137" width="240" height="143" as="geometry">
