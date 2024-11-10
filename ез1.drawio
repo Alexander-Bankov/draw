@@ -133,7 +133,7 @@
         <mxCell id="ZL0jJYdhNXlCB6z54EIf-1" value="п/с работы с базой данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="688.25" y="367" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ZL0jJYdhNXlCB6z54EIf-2" value="п/с ввода личных регистрационных данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZL0jJYdhNXlCB6z54EIf-2" value="п/с изменения личных данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="416" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZL0jJYdhNXlCB6z54EIf-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
