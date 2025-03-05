@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16" pages="2">
   <diagram name="Страница — 1" id="W4fA4WaMRZmaJOSm98-F">
-    <mxGraphModel dx="6260" dy="3143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="1429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,7 +312,7 @@
         <mxCell id="6tyxrAnVvJZaLS2WUo1E-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mMVf_9y5Yj_PCZkCn3cm-233" source="6tyxrAnVvJZaLS2WUo1E-121" target="6tyxrAnVvJZaLS2WUo1E-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tyxrAnVvJZaLS2WUo1E-126" value="Проверить наличие ресурсов для вырполнения" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="mMVf_9y5Yj_PCZkCn3cm-233" vertex="1">
+        <mxCell id="6tyxrAnVvJZaLS2WUo1E-126" value="Проверить наличие ресурсов для выполнения" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="mMVf_9y5Yj_PCZkCn3cm-233" vertex="1">
           <mxGeometry x="2073" y="24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6tyxrAnVvJZaLS2WUo1E-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mMVf_9y5Yj_PCZkCn3cm-233" target="6tyxrAnVvJZaLS2WUo1E-126" edge="1">
