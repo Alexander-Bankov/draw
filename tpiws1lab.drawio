@@ -744,8 +744,8 @@
         <mxCell id="Pofg1hdR1vKFg--FyxBw-187" value="&lt;div&gt;Изучить данные, которые прислал контакт центр после планового обзвона&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-6">
           <mxGeometry x="109" y="105" width="122" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="Pofg1hdR1vKFg--FyxBw-191" value="Выбрать заинтересовавшихся клиентов, и&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-6">
-          <mxGeometry x="271" y="105" width="120" height="60" as="geometry" />
+        <mxCell id="Pofg1hdR1vKFg--FyxBw-191" value="Выбрать заинтересовавшихся клиентов, и предложить услугу, с более детальным объяснением&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-6">
+          <mxGeometry x="271" y="85" width="120" height="102" as="geometry" />
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pofg1hdR1vKFg--FyxBw-6" source="Pofg1hdR1vKFg--FyxBw-191" target="Pofg1hdR1vKFg--FyxBw-10">
           <mxGeometry relative="1" as="geometry" />
