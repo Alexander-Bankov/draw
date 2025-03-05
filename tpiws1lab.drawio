@@ -649,7 +649,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HPLfV1w0Qu0yYcx0MjSb" name="Страница — 2">
-    <mxGraphModel dx="4780" dy="5970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="4635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -661,9 +661,6 @@
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-6" value="Коммерческий отдел" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-1">
           <mxGeometry x="20" width="3265" height="328" as="geometry" />
-        </mxCell>
-        <mxCell id="Pofg1hdR1vKFg--FyxBw-7" value="Привлечь клиента, предложив ему услугу" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-6">
-          <mxGeometry x="253" y="96" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pofg1hdR1vKFg--FyxBw-6" source="Pofg1hdR1vKFg--FyxBw-10" target="Pofg1hdR1vKFg--FyxBw-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1126,12 +1123,6 @@
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-139" value="Передать тарифы и данные по ним&amp;nbsp;&lt;br&gt;в производственный отдел" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Pofg1hdR1vKFg--FyxBw-109">
           <mxGeometry x="1975" y="220" width="219" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="Pofg1hdR1vKFg--FyxBw-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Pofg1hdR1vKFg--FyxBw-1" target="Pofg1hdR1vKFg--FyxBw-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="333" y="130" as="sourcePoint" />
-            <mxPoint x="385" y="78" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pofg1hdR1vKFg--FyxBw-1" source="Pofg1hdR1vKFg--FyxBw-17" target="Pofg1hdR1vKFg--FyxBw-31">
           <mxGeometry relative="1" as="geometry" />
