@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0" pages="2">
   <diagram name="Страница — 1" id="W4fA4WaMRZmaJOSm98-F">
     <mxGraphModel dx="2348" dy="1429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,12 +674,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HPLfV1w0Qu0yYcx0MjSb" name="Страница — 2">
-    <mxGraphModel dx="7919" dy="5857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="13446" dy="8560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sF56qY8FgMbpgmBldQ-x-1" value="TO BE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1249" y="-3240" width="60" height="30" as="geometry" />
+          <mxGeometry x="1016" y="-113" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-1" value="МТС" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-610" y="25" width="3898" height="2541" as="geometry" />
@@ -766,7 +766,7 @@
         <mxCell id="Pofg1hdR1vKFg--FyxBw-187" value="Выбрать заинтересовавшихся клиентов, из списка присланных контакт центром, и предложить услугу, с более детальным объяснением&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="Pofg1hdR1vKFg--FyxBw-6" vertex="1">
           <mxGeometry x="205" y="67" width="122" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="iaAgt1gOfhsIaKtSMd2E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pofg1hdR1vKFg--FyxBw-6" source="Pofg1hdR1vKFg--FyxBw-187" target="Pofg1hdR1vKFg--FyxBw-10">
+        <mxCell id="iaAgt1gOfhsIaKtSMd2E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Pofg1hdR1vKFg--FyxBw-6" source="Pofg1hdR1vKFg--FyxBw-187" target="Pofg1hdR1vKFg--FyxBw-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-30" value="Отдел обслуживания" style="swimlane;html=1;startSize=20;horizontal=0;" parent="Pofg1hdR1vKFg--FyxBw-1" vertex="1">
