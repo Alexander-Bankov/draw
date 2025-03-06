@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HPLfV1w0Qu0yYcx0MjSb" name="Страница — 2">
-    <mxGraphModel dx="13446" dy="8560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3988" dy="4051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -720,7 +720,7 @@
         <mxCell id="Pofg1hdR1vKFg--FyxBw-19" value="Произвести анализ подготовленных предложений" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="Pofg1hdR1vKFg--FyxBw-6" vertex="1">
           <mxGeometry x="976" y="199" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pofg1hdR1vKFg--FyxBw-20" value="Сбор данных о рынке и текущем спросе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="Pofg1hdR1vKFg--FyxBw-6" vertex="1">
+        <mxCell id="Pofg1hdR1vKFg--FyxBw-20" value="Собрать данных о рынке и текущем спросе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="Pofg1hdR1vKFg--FyxBw-6" vertex="1">
           <mxGeometry x="1190" y="199" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pofg1hdR1vKFg--FyxBw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Pofg1hdR1vKFg--FyxBw-6" source="Pofg1hdR1vKFg--FyxBw-19" target="Pofg1hdR1vKFg--FyxBw-20" edge="1">
