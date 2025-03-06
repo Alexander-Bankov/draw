@@ -649,7 +649,7 @@
         <mxCell id="6tyxrAnVvJZaLS2WUo1E-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mMVf_9y5Yj_PCZkCn3cm-314" source="6tyxrAnVvJZaLS2WUo1E-141" target="6tyxrAnVvJZaLS2WUo1E-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6tyxrAnVvJZaLS2WUo1E-150" value="Закупка материалов или поиск на складе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="mMVf_9y5Yj_PCZkCn3cm-314" vertex="1">
+        <mxCell id="6tyxrAnVvJZaLS2WUo1E-150" value="Закупить материалы или искать на складе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="mMVf_9y5Yj_PCZkCn3cm-314" vertex="1">
           <mxGeometry x="2509" y="27" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6tyxrAnVvJZaLS2WUo1E-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mMVf_9y5Yj_PCZkCn3cm-314" source="6tyxrAnVvJZaLS2WUo1E-148" target="6tyxrAnVvJZaLS2WUo1E-150" edge="1">
