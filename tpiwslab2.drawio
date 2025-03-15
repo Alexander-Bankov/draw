@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="Страница — 1" id="KqvZ-NE5LTEwRNq-Iajw">
-    <mxGraphModel dx="1426" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8xPX3FnBnewf77NoC2H1-1" value="Отдел планового развития" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=default;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="149" y="123" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-2" value="Плановый отдел&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-7" value="Производственный отдел" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1143" y="588" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-8" value="Анализировать рынок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="113" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-9" value="Подготавливать предложения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="113" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-10" value="Предоставить данные о спросе и рынка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="113" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-11" value="Прогнозировать прибыль и затраты" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-12" value="Подготовить тарифы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-13" value="Утвердить тарифы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.05;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="8xPX3FnBnewf77NoC2H1-1" target="8xPX3FnBnewf77NoC2H1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-15" value="Заинтересовать клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="113" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-16" value="Зарегистрировать заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="183" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-17" value="Создать договор" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1243" y="265" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-18" value="Получить подтверждение договора от клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="323" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-19" value="Отдел обслуживания" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="193" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-20" value="Уведомить клиента о завершении услуг" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1873" y="193" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-21" value="Отдел закупок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1292" y="708" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-22" value="Технический отдел" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="486" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-23" value="Разработать план выполнения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-25" value="Начать выполнения работ без доп ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="406" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-26" value="Запросить дополнительные ресурсы&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221516%22%20y%3D%22406%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%BF%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221516%22%20y%3D%22406%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="542" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-27" value="Передать в использование дополнительные ресурсы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="692" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8xPX3FnBnewf77NoC2H1-28" value="Выполнить технические работы по подключению" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
