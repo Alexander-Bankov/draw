@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3" pages="2">
   <diagram name="подключение" id="53wVn9sx7JhbAy7L63Vw">
-    <mxGraphModel dx="4753" dy="2630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2386" dy="1127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ajU78ZJ8b1dqweWLq15U" name="запрос на доступ">
-    <mxGraphModel dx="3565" dy="1973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2783" dy="1315" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,8 +189,8 @@
         <mxCell id="YF-ZXUId8gbiQNMHnXpZ-8" value="&lt;div style=&quot;&quot;&gt;&amp;nbsp;Выбрать тарифный план&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=0;spacingRight=0;whiteSpace=wrap;" vertex="1" parent="YF-ZXUId8gbiQNMHnXpZ-2">
           <mxGeometry x="720" y="60" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YF-ZXUId8gbiQNMHnXpZ-9" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="YF-ZXUId8gbiQNMHnXpZ-2">
-          <mxGeometry x="2230" y="72" width="30" height="30" as="geometry" />
+        <mxCell id="fATUmktLJNBWGbmJRgO0-6" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" vertex="1" parent="YF-ZXUId8gbiQNMHnXpZ-2">
+          <mxGeometry x="2228" y="72" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF-ZXUId8gbiQNMHnXpZ-10" value="Отдел обслуживания" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="YF-ZXUId8gbiQNMHnXpZ-1">
           <mxGeometry y="200" width="2510" height="160" as="geometry" />
@@ -331,8 +331,10 @@
         <mxCell id="YF-ZXUId8gbiQNMHnXpZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YF-ZXUId8gbiQNMHnXpZ-1" source="YF-ZXUId8gbiQNMHnXpZ-8" target="YF-ZXUId8gbiQNMHnXpZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YF-ZXUId8gbiQNMHnXpZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YF-ZXUId8gbiQNMHnXpZ-1" source="YF-ZXUId8gbiQNMHnXpZ-19" target="YF-ZXUId8gbiQNMHnXpZ-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YF-ZXUId8gbiQNMHnXpZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YF-ZXUId8gbiQNMHnXpZ-1" source="YF-ZXUId8gbiQNMHnXpZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2230.0000000000846" y="87.00000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
