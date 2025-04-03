@@ -334,6 +334,19 @@
         <mxCell id="eWgIt1Ur5osE32BD8mv0-55" value="1..*" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1895" y="1186.0000000000002" as="geometry" />
         </mxCell>
+        <mxCell id="eWgIt1Ur5osE32BD8mv0-56" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Обращается&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1526.9988540310328" y="782.0047288004556" width="95" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="eWgIt1Ur5osE32BD8mv0-57" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1493.999620038711" y="809.9982145484826" as="geometry">
+            <mxPoint x="18" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWgIt1Ur5osE32BD8mv0-58" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1551.549620038711" y="989.0182145484825" as="geometry">
+            <mxPoint x="-48" y="-211" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
