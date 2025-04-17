@@ -415,7 +415,7 @@
         <mxCell id="G_K5itEXuv4odxjI9YQ4-52" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1346" y="451" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LsGdPUGLEReMPMNrim3z-1" value="Заключение сделки завершено" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LsGdPUGLEReMPMNrim3z-1" value="Заключение сделки прервано" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1284" y="415.5" width="154" height="30" as="geometry" />
         </mxCell>
       </root>
