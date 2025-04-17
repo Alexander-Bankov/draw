@@ -251,14 +251,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G_K5itEXuv4odxjI9YQ4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G_K5itEXuv4odxjI9YQ4-16" target="G_K5itEXuv4odxjI9YQ4-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G_K5itEXuv4odxjI9YQ4-14" value="условия тарифа&lt;div&gt;изменены&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G_K5itEXuv4odxjI9YQ4-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.1543" y="1" relative="1" as="geometry">
-            <mxPoint x="-46" y="9" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G_K5itEXuv4odxjI9YQ4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=810;exitDy=117.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="G_K5itEXuv4odxjI9YQ4-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -337,12 +329,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G_K5itEXuv4odxjI9YQ4-32" value="&lt;div&gt;Пересмотр договора&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1118" y="718" width="140" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="G_K5itEXuv4odxjI9YQ4-33" value="do/ обновление стоимости услуг" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="G_K5itEXuv4odxjI9YQ4-32" vertex="1">
-          <mxGeometry y="30" width="140" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="G_K5itEXuv4odxjI9YQ4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G_K5itEXuv4odxjI9YQ4-38" target="G_K5itEXuv4odxjI9YQ4-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -407,9 +393,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G_K5itEXuv4odxjI9YQ4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G_K5itEXuv4odxjI9YQ4-40" target="G_K5itEXuv4odxjI9YQ4-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G_K5itEXuv4odxjI9YQ4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G_K5itEXuv4odxjI9YQ4-33" target="G_K5itEXuv4odxjI9YQ4-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G_K5itEXuv4odxjI9YQ4-52" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;" parent="1" vertex="1">
