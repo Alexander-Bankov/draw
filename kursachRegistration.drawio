@@ -312,7 +312,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWFz378rUtDhTfB7U8Hd-19" value="Одобрение плана" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="hWFz378rUtDhTfB7U8Hd-1">
+        <mxCell id="hWFz378rUtDhTfB7U8Hd-19" value="Отмена изменений" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="hWFz378rUtDhTfB7U8Hd-1">
           <mxGeometry x="104" y="542" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hWFz378rUtDhTfB7U8Hd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hWFz378rUtDhTfB7U8Hd-1" source="hWFz378rUtDhTfB7U8Hd-21" target="hWFz378rUtDhTfB7U8Hd-23">
