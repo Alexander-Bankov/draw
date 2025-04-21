@@ -395,10 +395,10 @@
         <mxCell id="hWFz378rUtDhTfB7U8Hd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hWFz378rUtDhTfB7U8Hd-1" source="hWFz378rUtDhTfB7U8Hd-42" target="hWFz378rUtDhTfB7U8Hd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWFz378rUtDhTfB7U8Hd-42" value="Страница входа в приложение" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="hWFz378rUtDhTfB7U8Hd-1">
+        <mxCell id="hWFz378rUtDhTfB7U8Hd-42" value="Страница заявок пользователяя" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="hWFz378rUtDhTfB7U8Hd-1">
           <mxGeometry x="225" y="269" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hWFz378rUtDhTfB7U8Hd-43" value="Переход на страницу заявок" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hWFz378rUtDhTfB7U8Hd-1">
+        <mxCell id="hWFz378rUtDhTfB7U8Hd-43" value="Переход на страницу&lt;br&gt;&amp;nbsp;заявок пользователя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hWFz378rUtDhTfB7U8Hd-1">
           <mxGeometry x="176" y="252" as="geometry" />
         </mxCell>
         <mxCell id="hWFz378rUtDhTfB7U8Hd-46" value="Переход на страницу редактирования&lt;br&gt;выбранной заявки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hWFz378rUtDhTfB7U8Hd-1">
