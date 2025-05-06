@@ -1,79 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Страница — 1" id="zv4xUFrWUmvOHHc0taLi">
-    <mxGraphModel dx="1680" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-1" target="vVJx2vjfMUpWSvh_OAnS-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-1" value="начало" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1826" y="161" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1886" y="375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-2" value="вводим год" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1826" y="274" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-12" target="vVJx2vjfMUpWSvh_OAnS-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="778.0526315789475" y="503.0321207430343" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-12" value="проверить есть ли года старше или такой же год, по сравнению с тем, который мы ввели" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1708" y="376" width="356" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-14" target="vVJx2vjfMUpWSvh_OAnS-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-14" value="получить список всех годов до него" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2034" y="575" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-17" value="да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1542" y="382" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-18" value="нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2181" y="386" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-19" target="vVJx2vjfMUpWSvh_OAnS-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-19" value="найти последний, у которого - остаток средств использован стоит true" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2034" y="669" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-21" target="vVJx2vjfMUpWSvh_OAnS-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-21" value="суммировать все остатки от того момента до текущего года&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2034" y="769" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-22" target="vVJx2vjfMUpWSvh_OAnS-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-22" target="vVJx2vjfMUpWSvh_OAnS-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-22" value="остаток средств использован = true" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2216" y="465" width="249" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-24" value="просто создаем запись" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2467" y="594" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-27" value="нет&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2471" y="473" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-30" value="да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2135" y="477" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vVJx2vjfMUpWSvh_OAnS-33" value="создать запись" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2034" y="869" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vVJx2vjfMUpWSvh_OAnS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vVJx2vjfMUpWSvh_OAnS-44" target="vVJx2vjfMUpWSvh_OAnS-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
